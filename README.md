@@ -1,8 +1,12 @@
 # concordium_hakathon
 This is my concordium setup
 
-# My Wallet address
-  3o6Vx8zqtZU7SCiX6T4pfEvqeuVa6DCD9jT9G8Xg4pXECLWy9s
+# My Wallet addresses
+  CONCORDIUM ADDRESS: 3o6Vx8zqtZU7SCiX6T4pfEvqeuVa6DCD9jT9G8Xg4pXECLWy9s
+  
+  USDT ADDRESS: 0x49c3dC926b3078237FBCf686cb8b0606B0bF39D9
+  
+  ## Sorry, the USDT address I provided in gitcoin is broken. Thanks for understanding
   
 # Procedure
 I downloaded and installed C++ tools. After a successful installation, i downloaded and install Rust and Cargo. My evn was automatically updated with the path. 
